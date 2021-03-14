@@ -2,7 +2,16 @@
 
 ![](Images/Patients.png)
 
-The present work is the research when I was Pharmacometrics Intern at Pharmacometry Team at Merck Group, supervised by Kosalaram Goteti, Ph.D. This work has been accepted to [American Conference on Pharmacometrics 2020](https://www.go-acop.org/). Published poster article is [here](https://github.com/yain22/SWM/blob/main/Presentation/ACOP_Se_Yoon_Lee_PhD.pdf).
+## Contents
+* [Overview](#Overview)
+* [Introduction](#Introduction)
+* [References](#References)
+
+## Overview
+
+The present work is the research when I was Pharmacometrics Intern at Pharmacometry Team at Merck Group, supervised by Kosalaram Goteti, Ph.D. This work has been accepted to [American Conference on Pharmacometrics 2020](https://www.go-acop.org/). Published poster article is [here](https://github.com/yain22/SWM/blob/main/Presentation/ACOP_Se_Yoon_Lee_PhD.pdf). 
+
+## Introduction
 
 For a phase I cancer clinical trial, the number of patients is sharply confined. For this reason, proper exploitation of toxicity information from each of the patients is crucial in designing an adaptive clinical trial. In such a phase I study we have to consider that treatment effect may not be known for months, possibly years, after enrollment: whereas, toxic reactions manifest in terms of days, weeks, or months rather than years. 
 
