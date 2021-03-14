@@ -9,7 +9,11 @@
 
 ## Overview
 
-The present work is the research when I was Pharmacometrics Intern at Pharmacometry Team at Merck Group, supervised by Kosalaram Goteti, Ph.D. This work has been accepted to [American Conference on Pharmacometrics 2020](https://www.go-acop.org/). Published poster article can be downloaed at [here](https://github.com/yain22/2PLD/blob/main/Poster/ACOP_Se_Yoon_Lee_PhD.pdf). Illustration video can be downloaed at [here](https://github.com/yain22/2PLD/blob/main/Video/ACOP_Video_Se_Yoon_Lee_PhD.mp4)
+The present work is a research work that I conducted as a Pharmacometrics Intern at Pharmacometry Team at Merck Group, supervised by Kosalaram Goteti, Ph.D. This work has been accepted to [American Conference on Pharmacometrics 2020](https://www.go-acop.org/). Published poster article can be downloaed at [here](https://github.com/yain22/2PLD/blob/main/Poster/ACOP_Se_Yoon_Lee_PhD.pdf). Illustration video can be downloaed at [here](https://github.com/yain22/2PLD/blob/main/Video/ACOP_Video_Se_Yoon_Lee_PhD.mp4). 
+
+To cite our work, please use
+
+  Author Se Yoon Lee, Shankar Lanke, Alain Munafo, Pascal Girard, Kosalaram Goteti, Optimization of dose selection using multiple surrogates of toxicity as a continuous variable in Phase I cancer trial, ACoP11, ISSN:2688-3953, 2020, Vol 2
 
 ## Introduction & Results
 
