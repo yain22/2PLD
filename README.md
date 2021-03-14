@@ -4,7 +4,7 @@
 
 ## Contents
 * [Overview](#Overview)
-* [Introduction & Results](#Introduction & Results)
+* [Introduction & Results](#introduction--results)
 * [References](#References)
 
 ## Overview
