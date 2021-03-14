@@ -9,7 +9,7 @@
 
 ## Overview
 
-The present work is the research when I was Pharmacometrics Intern at Pharmacometry Team at Merck Group, supervised by Kosalaram Goteti, Ph.D. This work has been accepted to [American Conference on Pharmacometrics 2020](https://www.go-acop.org/). Published poster article is [here](https://github.com/yain22/SWM/blob/main/Presentation/ACOP_Se_Yoon_Lee_PhD.pdf). 
+The present work is the research when I was Pharmacometrics Intern at Pharmacometry Team at Merck Group, supervised by Kosalaram Goteti, Ph.D. This work has been accepted to [American Conference on Pharmacometrics 2020](https://www.go-acop.org/). Published poster article can be downloaed at [here](https://github.com/yain22/2PLD/blob/main/Poster/ACOP_Se_Yoon_Lee_PhD.pdf). 
 
 ## Introduction & Results
 
