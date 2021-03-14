@@ -14,3 +14,10 @@ wo typical pioneering Bayesian adaptive designs for the phase I cancer clinical 
 
 The simulations show that this novel 2PLD method has good operating characteristics and improved accuracy in achieving MTD. Simulations showed that the 2PLD requires a fewer step to converge to the targeted MTD than using adaptive clinical trial design methods that are based on binary responses such as EWOC or CRM. This novel 2PLD can be an attractive tool for clinical scientists because of its parsimonious description of a toxicity-dose curve, medically interpretable hyperparameters, and an automated posterior computation.
 
+## References
+
+[1] Babb, James, André Rogatko, and Shelemyahu Zacks. "Cancer phase I clinical trials: efficient dose escalation with overdose control." Statistics in medicine 17.10 (1998): 1103-1120
+
+[2] O'Quigley, John, Margaret Pepe, and Lloyd Fisher. "Continual reassessment method: a practical design for phase 1 clinical trials in cancer." Biometrics (1990): 33-48 
+
+[3] Rosenblum, Michael, et al. "Adaptive design in surveys and clinical trials: similarities, differences and opportunities for cross‐fertilization." Journal of the Royal Statistical Society: Series A (Statistics in Society) 182.3 (2019): 963-982
