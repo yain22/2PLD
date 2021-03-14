@@ -13,7 +13,7 @@ The present work is a research work that I conducted as a Pharmacometrics Intern
 
 To cite our work, please reference with:
 
-    Se Yoon Lee, Shankar Lanke, Alain Munafo, Pascal Girard, Kosalaram Goteti, Optimization of dose selection using multiple surrogates of toxicity as a continuous variable in Phase I cancer trial, ACoP11, ISSN:2688-3953, 2020, Vol 2
+Se Yoon Lee, Shankar Lanke, Alain Munafo, Pascal Girard, Kosalaram Goteti, (2020) "Optimization of dose selection using multiple surrogates of toxicity as a continuous variable in Phase I cancer trial", ACoP11, ISSN:2688-3953, Vol 2
 
 ## Introduction & Results
 
