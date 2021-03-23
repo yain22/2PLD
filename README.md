@@ -1,4 +1,4 @@
-# 2PLD: Optimization of dose selection using multiple surrogates of toxicity as a continuous variable in Phase I cancer trial
+# Optimization of dose selection using multiple surrogates of toxicity as a continuous variable in Phase I cancer trial
 
 ![](Images/Patients.png)
 
