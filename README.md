@@ -9,7 +9,7 @@
 
 ## Overview
 
-The present work is a research that I conducted as a Pharmacometrics Intern at Pharmacometry Team at [Merck Group](https://www.emdgroup.com/en), supervised by Kosalaram Goteti, Ph.D. This work has been accepted to [American Conference on Pharmacometrics 2020](https://www.go-acop.org/): abstracts of accepted works at ACoP11 can be downloadable from [here](https://github.com/yain22/2PLD/blob/main/Poster/ACoP_Poster%20Abstracts_v4.pdf). Published poster article can be downloaed at [here](https://github.com/yain22/2PLD/blob/main/Poster/ACOP_Se_Yoon_Lee_PhD.pdf). Illustration video can be downloaed at [here](https://github.com/yain22/2PLD/blob/main/Video/ACOP_Video_Se_Yoon_Lee_PhD.mp4). 
+The present work is a research that I had conducted as a Pharmacometrics Intern at Pharmacometry Team at [Merck Group](https://www.emdgroup.com/en), supervised by Kosalaram Goteti, Ph.D. This work has been accepted to [American Conference on Pharmacometrics 2020](https://www.go-acop.org/): abstracts of accepted works at ACoP11 can be downloadable from [here](https://github.com/yain22/2PLD/blob/main/Poster/ACoP_Poster%20Abstracts_v4.pdf). Published poster article can be downloaed at [here](https://github.com/yain22/2PLD/blob/main/Poster/ACOP_Se_Yoon_Lee_PhD.pdf). Illustration video can be downloaed at [here](https://github.com/yain22/2PLD/blob/main/Video/ACOP_Video_Se_Yoon_Lee_PhD.mp4). 
 
 To cite our work, refer with the following:
 
