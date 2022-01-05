@@ -9,11 +9,11 @@
 
 ## Overview
 
-The present work is a research that I had conducted as a Pharmacometrics Intern at Pharmacometry Team at [Merck Group](https://www.emdgroup.com/en), supervised by Kosalaram Goteti, Ph.D. This work has been accepted to [American Conference on Pharmacometrics 2020](https://www.go-acop.org/): abstracts of accepted works at ACoP11 can be downloadable from [here](https://github.com/yain22/2PLD/blob/main/Poster/ACoP_Poster%20Abstracts_v4.pdf). Published poster article can be downloaed at [here](https://github.com/yain22/2PLD/blob/main/Poster/ACOP_Se_Yoon_Lee_PhD.pdf). Illustration video can be downloaed at [here](https://github.com/yain22/2PLD/blob/main/Video/ACOP_Video_Se_Yoon_Lee_PhD.mp4). 
+The present work is a research that I had conducted as a Pharmacometrics Intern at Pharmacometry Team at [Merck Group](https://www.emdgroup.com/en), supervised by Kosalaram Goteti, Ph.D. I was a third year Ph.D. student at Texas A&M University. This work has been accepted to [American Conference on Pharmacometrics 2020](https://www.go-acop.org/): abstracts of accepted works at ACoP11 can be downloadable from [here](https://github.com/yain22/2PLD/blob/main/Poster/ACoP_Poster%20Abstracts_v4.pdf). Published poster article can be downloaed at [here](https://github.com/yain22/2PLD/blob/main/Poster/ACOP_Se_Yoon_Lee_PhD.pdf). Illustration video can be downloaed at [here](https://github.com/yain22/2PLD/blob/main/Video/ACOP_Video_Se_Yoon_Lee_PhD.mp4). The full reseach article has been published in a top medical journal "Contemporary Clinical Trials" [Impact factor : 2.226]": Download at [here](https://www.sciencedirect.com/science/article/pii/S1551714421003931). Full slide of the published work can be download at [here](https://github.com/yain22/2PLD/blob/main/Presentation/2PLD_Slides_SeYoon_Lee_PhD.pdf).
 
 To cite our work, refer with the following:
 
-**Se Yoon Lee, Shankar Lanke, Alain Munafo, Pascal Girard, Kosalaram Goteti, (2020) "Optimization of dose selection using multiple surrogates of toxicity as a continuous variable in Phase I cancer trial", ACoP11, ISSN:2688-3953, Vol 2**
+**Se Yoon Lee, Alain Munafo, Pascal Girard, Kosalaram Goteti, "Optimization of dose selection using multiple surrogates of toxicity as a continuous variable in Phase I cancer trial", Contemporary Clinical Trials (2022)**
 
 ## Introduction & Results
 
@@ -35,8 +35,10 @@ The simulations show that this novel 2PLD method has good operating characterist
 
 [1] Se Yoon Lee, Shankar Lanke, Alain Munafo, Pascal Girard, Kosalaram Goteti, "Optimization of dose selection using multiple surrogates of toxicity as a continuous variable in Phase I cancer trial", ACoP11, ISSN:2688-3953, Vol 2 (2020)
 
-[2] Babb, James, André Rogatko, and Shelemyahu Zacks. "Cancer phase I clinical trials: efficient dose escalation with overdose control." Statistics in medicine 17.10 (1998): 1103-1120
+[2] Se Yoon Lee, Alain Munafo, Pascal Girard, Kosalaram Goteti, "Optimization of dose selection using multiple surrogates of toxicity as a continuous variable in Phase I cancer trial", Contemporary Clinical Trials (2022)
 
-[3] O'Quigley, John, Margaret Pepe, and Lloyd Fisher. "Continual reassessment method: a practical design for phase 1 clinical trials in cancer." Biometrics (1990): 33-48 
+[3] Babb, James, André Rogatko, and Shelemyahu Zacks. "Cancer phase I clinical trials: efficient dose escalation with overdose control." Statistics in medicine 17.10 (1998): 1103-1120
 
-[4] Rosenblum, Michael, et al. "Adaptive design in surveys and clinical trials: similarities, differences and opportunities for cross‐fertilization." Journal of the Royal Statistical Society: Series A (Statistics in Society) 182.3 (2019): 963-982
+[4] O'Quigley, John, Margaret Pepe, and Lloyd Fisher. "Continual reassessment method: a practical design for phase 1 clinical trials in cancer." Biometrics (1990): 33-48 
+
+[5] Rosenblum, Michael, et al. "Adaptive design in surveys and clinical trials: similarities, differences and opportunities for cross‐fertilization." Journal of the Royal Statistical Society: Series A (Statistics in Society) 182.3 (2019): 963-982
